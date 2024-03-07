@@ -66,3 +66,26 @@ nav{
     background-color: #ffd64f;
     border-radius: 4px;
 }
+.nav-language{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+    gap: 2px;
+    font-weight: 600;
+}
+.nav-text{
+    margin-left: 15px;
+
+}
+.nav-text p{
+    font-size: 10px;
+
+}
+.nav-text h1{
+    font-size: 14px;
+}
+.nav-cart{
+    display: flex;
+    align-items: center;
+    margin: 0 15px;
+}
